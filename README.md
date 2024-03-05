@@ -2,7 +2,7 @@
 CS 155 Lab Repository Exercise 1
 
 ## Name
-Ralph Bryllemond Y. Diax
+Ralph Bryllemond Y. Diaz
 202000356
 
 ## Compilation Notes
